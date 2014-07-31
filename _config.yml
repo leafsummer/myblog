@@ -6,15 +6,17 @@ encoding: utf-8
 # lsi: true
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: /myblog
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
-
+title: leafsummer's blog
+email: wing.sun1987@gmail.com
+description: "this is the leafsummer's github pages blog, created by jekyll"
+baseurl: /leaf0s
+url: "http://leafsummer.github.io/leaf0s"
+twitter_username: leafsummer
+github_username:  leafsummer
 # Build settings
 markdown: kramdown
 permalink: pretty
-# highlighter: rouge
+highlighter: rouge
+
+# Permalinks
+permalink: pretty
