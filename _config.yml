@@ -10,7 +10,7 @@ title: leafsummer's blog
 email: wing.sun1987@gmail.com
 description: "this is the leafsummer's github pages blog, created by jekyll"
 baseurl: /myblog
-url: "http://leafsummer.github.io/myblog"
+url: "http://leafsummer.github.io/myblog/"
 twitter_username: leafsummer
 github_username:  leafsummer
 # Build settings
