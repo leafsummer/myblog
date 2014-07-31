@@ -15,5 +15,5 @@ twitter_username: leafsummer
 github_username:  leafsummer
 # Build settings
 markdown: kramdown
-highlighter: rouge
+# highlighter: rouge
 permalink: pretty
