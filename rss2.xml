@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Leaf0s Blog</title>
+  
+  <subtitle>Make things as simple as possible, but no simpler</subtitle>
+  <link href="/rss2.xml" rel="self"/>
+  
+  <link href="https://leaf0s.fun/"/>
+  <updated>2019-07-18T05:34:55.803Z</updated>
+  <id>https://leaf0s.fun/</id>
+  
+  <author>
+    <name>leafsummer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://leaf0s.fun/2019/07/18/4a17b156/"/>
+    <id>https://leaf0s.fun/2019/07/18/4a17b156/</id>
+    <published>2019-07-18T05:34:55.803Z</published>
+    <updated>2019-07-18T05:34:55.803Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://leaf0s.fun/2019/07/17/d87f7e0c/"/>
+    <id>https://leaf0s.fun/2019/07/17/d87f7e0c/</id>
+    <published>2019-07-17T07:52:20.000Z</published>
+    <updated>2019-07-18T05:34:55.803Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="cate" scheme="https://leaf0s.fun/categories/cate/"/>
+    
+    
+  </entry>
+  
+</feed>
