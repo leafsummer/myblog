@@ -2,13 +2,13 @@
 <search>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F07%2F18%2F4a17b156%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.Quick StartCreate a new post1$ hexo new "My New Post"More info: WritingRun server1$ hexo serverMore info: ServerGenerate static files1$ hexo generateMore info: GeneratingDeploy to remote sites1$ hexo deployMore info: Deployment]]></content>
+    <url>%2F2019%2F07%2F19%2F4231398%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.Quick StartCreate a new post1$ hexo new "My New Post"More info: WritingRun server1$ hexo serverMore info: ServerGenerate static files1$ hexo generateMore info: GeneratingDeploy to remote sites1$ hexo deployMore info: Deployment本文地址： https://leaf0s.fun/2019/07/19/4231398/]]></content>
   </entry>
   <entry>
     <title><![CDATA[test]]></title>
-    <url>%2F2019%2F07%2F17%2Fd87f7e0c%2F</url>
-    <content type="text"><![CDATA[This is a test mdthis is a test markdown for testing hexo]]></content>
+    <url>%2F2019%2F07%2F17%2F876789%2F</url>
+    <content type="text"><![CDATA[This is a test mdthis is a test markdown for testing hexo测试一下中文的显示效果, 看看是否有中文毛边情况的发生本文地址： https://leaf0s.fun/2019/07/17/876789/]]></content>
       <categories>
         <category>cate</category>
       </categories>
