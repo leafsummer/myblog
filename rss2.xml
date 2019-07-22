@@ -6,7 +6,7 @@
   <link href="/rss2.xml" rel="self"/>
   
   <link href="https://leaf0s.fun/"/>
-  <updated>2019-07-19T02:37:26.762Z</updated>
+  <updated>2019-07-22T17:11:32.921Z</updated>
   <id>https://leaf0s.fun/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://leaf0s.fun/2019/07/19/4231398/"/>
-    <id>https://leaf0s.fun/2019/07/19/4231398/</id>
-    <published>2019-07-19T02:37:26.762Z</published>
-    <updated>2019-07-19T02:37:26.762Z</updated>
+    <title>Centos6 如何安装epel库</title>
+    <link href="https://leaf0s.fun/2018/09/04/2286277265/"/>
+    <id>https://leaf0s.fun/2018/09/04/2286277265/</id>
+    <published>2018-09-04T12:52:11.000Z</published>
+    <updated>2019-07-22T17:11:32.921Z</updated>
     
     <summary type="html">
     
@@ -34,16 +34,18 @@
       
     
     </summary>
+    
+      <category term="技术实践" scheme="https://leaf0s.fun/categories/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5/"/>
     
     
   </entry>
   
   <entry>
-    <title>test</title>
-    <link href="https://leaf0s.fun/2019/07/17/876789/"/>
-    <id>https://leaf0s.fun/2019/07/17/876789/</id>
-    <published>2019-07-17T07:52:20.000Z</published>
-    <updated>2019-07-19T04:09:50.633Z</updated>
+    <title>告别失控学习笔记</title>
+    <link href="https://leaf0s.fun/2018/08/20/1467955973/"/>
+    <id>https://leaf0s.fun/2018/08/20/1467955973/</id>
+    <published>2018-08-20T13:32:19.000Z</published>
+    <updated>2019-07-22T17:12:08.572Z</updated>
     
     <summary type="html">
     
@@ -57,7 +59,319 @@
     
     </summary>
     
-      <category term="cate" scheme="https://leaf0s.fun/categories/cate/"/>
+      <category term="读书笔记" scheme="https://leaf0s.fun/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Centos7 下安装docker-ce</title>
+    <link href="https://leaf0s.fun/2018/06/14/427468595/"/>
+    <id>https://leaf0s.fun/2018/06/14/427468595/</id>
+    <published>2018-06-14T12:40:45.000Z</published>
+    <updated>2019-07-22T17:37:54.863Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="技术实践" scheme="https://leaf0s.fun/categories/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>企业安全入门读书笔记</title>
+    <link href="https://leaf0s.fun/2018/03/12/483110212/"/>
+    <id>https://leaf0s.fun/2018/03/12/483110212/</id>
+    <published>2018-03-12T13:00:01.000Z</published>
+    <updated>2019-07-22T17:40:36.466Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://leaf0s.fun/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>项目管理学读书笔记</title>
+    <link href="https://leaf0s.fun/2018/03/12/1343718827/"/>
+    <id>https://leaf0s.fun/2018/03/12/1343718827/</id>
+    <published>2018-03-12T13:00:01.000Z</published>
+    <updated>2019-07-22T17:24:56.776Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://leaf0s.fun/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>大型网站技术架构读书笔记</title>
+    <link href="https://leaf0s.fun/2017/10/31/2972100119/"/>
+    <id>https://leaf0s.fun/2017/10/31/2972100119/</id>
+    <published>2017-10-31T13:09:01.000Z</published>
+    <updated>2019-07-22T17:40:36.462Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://leaf0s.fun/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>机器学习(ML)的总结和思考</title>
+    <link href="https://leaf0s.fun/2017/06/11/3454466964/"/>
+    <id>https://leaf0s.fun/2017/06/11/3454466964/</id>
+    <published>2017-06-11T13:32:19.000Z</published>
+    <updated>2019-07-22T17:07:51.082Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="技术总结" scheme="https://leaf0s.fun/categories/%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Git常用命令</title>
+    <link href="https://leaf0s.fun/2017/03/29/3405742080/"/>
+    <id>https://leaf0s.fun/2017/03/29/3405742080/</id>
+    <published>2017-03-29T13:32:19.000Z</published>
+    <updated>2019-07-22T17:40:36.466Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="技术总结" scheme="https://leaf0s.fun/categories/%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS 7 安装 Theano</title>
+    <link href="https://leaf0s.fun/2016/12/05/2494141133/"/>
+    <id>https://leaf0s.fun/2016/12/05/2494141133/</id>
+    <published>2016-12-05T13:52:11.000Z</published>
+    <updated>2019-07-22T17:11:06.571Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="技术实践" scheme="https://leaf0s.fun/categories/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HTTP协议读书笔记</title>
+    <link href="https://leaf0s.fun/2015/12/09/3418525752/"/>
+    <id>https://leaf0s.fun/2015/12/09/3418525752/</id>
+    <published>2015-12-09T14:30:36.000Z</published>
+    <updated>2019-07-22T16:37:11.861Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://leaf0s.fun/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>javascript核心基础学习总结</title>
+    <link href="https://leaf0s.fun/2015/11/24/2664142027/"/>
+    <id>https://leaf0s.fun/2015/11/24/2664142027/</id>
+    <published>2015-11-24T13:32:19.000Z</published>
+    <updated>2019-07-22T17:14:13.255Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="技术总结" scheme="https://leaf0s.fun/categories/%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>openstack学习总结</title>
+    <link href="https://leaf0s.fun/2015/05/28/174279324/"/>
+    <id>https://leaf0s.fun/2015/05/28/174279324/</id>
+    <published>2015-05-28T13:32:19.000Z</published>
+    <updated>2019-07-22T16:59:50.470Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="技术总结" scheme="https://leaf0s.fun/categories/%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>docker命令学习</title>
+    <link href="https://leaf0s.fun/2015/04/26/1737205767/"/>
+    <id>https://leaf0s.fun/2015/04/26/1737205767/</id>
+    <published>2015-04-26T13:32:19.000Z</published>
+    <updated>2019-07-22T17:46:36.345Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="技术总结" scheme="https://leaf0s.fun/categories/%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ubuntu12.04 下安装Docker</title>
+    <link href="https://leaf0s.fun/2015/04/24/2100280121/"/>
+    <id>https://leaf0s.fun/2015/04/24/2100280121/</id>
+    <published>2015-04-24T12:52:11.000Z</published>
+    <updated>2019-07-22T17:15:37.921Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="技术实践" scheme="https://leaf0s.fun/categories/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟与现实，关于世界的本质</title>
+    <link href="https://leaf0s.fun/2014/05/21/56693297/"/>
+    <id>https://leaf0s.fun/2014/05/21/56693297/</id>
+    <published>2014-05-21T14:18:31.000Z</published>
+    <updated>2019-07-22T18:06:57.409Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://leaf0s.fun/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>
